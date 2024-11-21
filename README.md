@@ -22,16 +22,18 @@
 
 </p>
 
-Ranked #1 in Computer Science (Hons.) at the Philippines' top university. With a record of excellence working in cross-functional teams, client-facing roles, and project leadership across financial, retail, and social impact sectors. Seeking challenging roles in tech, data, and consulting that create impact for good.
+Ranked #1 in Computer Science (Hons.), Minor in Data Science and Analytics. With a record of excellence working in cross-functional teams, client-facing roles, and project leadership across financial, retail, and social impact sectors. Seeking challenging roles in tech, data, and consulting that create impact for good.
 
 
-Some projects include
-- [x] Financial Institution Enterprise Operations
-- [x] Competitive Programming (Algorithms, Data Structures, Mathematics)
-- [x] Data Collection, Analysis, and Presentation
-- [x] Microcontroller Application
-- [x] Machine Learning and AI Model Development (NLP, Transformers, YOLOv8)
-- [x] Database Architeture and Query (SQL, NoSQL)
+Some projects include:
+- ✅ Financial Institution Enterprise Operations
+- 🤖 Competitive Programming (Algorithms, Data Structures, Mathematics)
+- 💡 Hackathon: Idea, Coding, Pitching (**Won Grand Champion!🥳**)
+- 📊 Data Collection, Analysis, and Presentation
+- ⚙️ Business System and Operations Optimisation
+- 🖥️ Microcontroller Application
+- 🧠 Machine Learning and AI Model Development (NLP, Transformers, YOLOv8)
+- 🗂️ Database Architecture and Query (SQL, NoSQL)
 
 Currently learning Cloud Deployment, Containerisation, CI/CD Pipelines, and Data Engineering.
 
