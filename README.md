@@ -27,12 +27,12 @@ Ranked #1 in Computer Science (Hons.), Minor in Data Science and Analytics. With
 
 Some projects include:
 - ✅ Financial Institution Enterprise Operations
-- 🤖 Competitive Programming (Algorithms, Data Structures, Mathematics)
-- 💡 Hackathon: Idea, Coding, Pitching (**Won Grand Champion!🥳**)
+- 🤖 Competitive Programming (Algorithms, Data Structures, Mathematics) (**_Top 1 PH Team in ICPC 2021!_** 💚)
+- 💡 Hackathon: Idea, Coding, Pitching (_**Won Grand Champion!**_ 🥳)
 - 📊 Data Collection, Analysis, and Presentation
 - ⚙️ Business System and Operations Optimisation
-- 🖥️ Microcontroller Application
-- 🧠 Machine Learning and AI Model Development (NLP, Transformers, YOLOv8)
+- 🖥️ Microcontroller Application (_**Awarded Best Thesis!**_ 🙌)
+- 🧠 Machine Learning and AI Model Development (NLP, Transformers, YOLOv8) (_**Accepted for Oral Presentation at Macau!**_ 🔥)
 - 🗂️ Database Architecture and Query (SQL, NoSQL)
 
 Currently learning Cloud Deployment, Containerisation, CI/CD Pipelines, and Data Engineering.
