@@ -38,8 +38,8 @@ Some projects include:
 Currently learning Cloud Deployment, Containerisation, CI/CD Pipelines, and Data Engineering.
 
 
-[![CS's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=csfromcs&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=dark&border_color=555555&rank_icon=github#gh-dark-mode-only)](https://github.com/csfromcs#gh-light-mode-only)
-[![CS's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=csfromcs&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/csfromcs#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=csfromcs&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=dark&border_color=555555&rank_icon=github#gh-dark-mode-only)](https://github.com/csfromcs#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=csfromcs&show_icons=true&include_all_commits=true&hide=issues,contribs&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/csfromcs#gh-dark-mode-only)
 
 
 ![](https://komarev.com/ghpvc/?username=csfromcs)
